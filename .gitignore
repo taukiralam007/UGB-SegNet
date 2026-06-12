@@ -1,0 +1,7 @@
+breast_ultrasound_dataset/
+saved_models/
+results/
+figures/
+__pycache__/
+*.pyc
+*.pth
