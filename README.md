@@ -32,7 +32,6 @@ UGB-SegNet is a novel deep learning architecture for automatic breast lesion seg
 | TransUNet | 68.61 | 52.27 | 68.29 | 97.12 | 36.17 | 87.20 |
 
 ### 5-Fold Cross-Validation
-
 | Fold | Dice (%) | IoU (%) | Sensitivity (%) | HD95 (px) |
 |---|---|---|---|---|
 | 1 | 78.05 | 68.93 | 77.98 | 17.75 |
@@ -40,7 +39,7 @@ UGB-SegNet is a novel deep learning architecture for automatic breast lesion seg
 | 3 | 77.17 | 67.76 | 82.28 | 20.05 |
 | 4 | 76.72 | 66.93 | 76.62 | 20.32 |
 | 5 | 73.64 | 63.97 | 81.01 | 43.91 |
-| **Mean ± SD** | **77.02 ± 1.90** | **66.83 ± 1.58** | **79.30 ± 2.14** | **24.93 ± 10.76** |
+| **Mean ± SD** | **76.36 ± 1.66** | **66.83 ± 1.84** | **79.30 ± 2.30** | **24.93 ± 10.75** |
 
 ---
 
